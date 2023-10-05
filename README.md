@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishmeet</h1>
-<h3 align="center">A passionate engineer who is learning the pillars of software engineering</h3>
+<h3 align="center">A passionate engineer immersed in the world of computer science. Along with my studies, I am also honing my skills in Web Development, DSA, 3D modelling and rendering and video editing. I'm also an avid gamer with a strong affinity for PC gaming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmeet482&label=Profile%20views&color=0e75b6&style=flat" alt="ishmeet482" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishmeet482" alt="ishmeet482" /></a> </p>
+- 🌱 I’m currently learning **React & Node JS**
 
 - 📫 How to reach me **ishmeet22695@gmail.com**
 
