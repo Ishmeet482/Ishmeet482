@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmeet482&label=Profile%20views&color=0e75b6&style=flat" alt="ishmeet482" /> </p>
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I’m currently learning **React & Node JS**
 
 - 📫 How to reach me **ishmeet22695@gmail.com**
