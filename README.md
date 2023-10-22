@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I think I have great sense of humour.**
 
-- ## 📅 Hobbies
+ ## 📅 Hobbies
 - Solve programming problems at LeetCode and editing videos for fun
 - Casually watching TV shows
 - Play videogames
