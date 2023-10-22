@@ -12,6 +12,13 @@
 
 - ⚡ Fun fact **I think I have great sense of humour.**
 
+- ## 📅 Hobbies
+- Solve programming problems at LeetCode and editing videos for fun
+- Casually watching TV shows
+- Play videogames
+- etc...
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smithwa17081703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smithwa17081703" height="30" width="40" /></a>
