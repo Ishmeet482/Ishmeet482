@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishmeet</h1>
-<h3 align="center">A passionate engineer immersed in the world of computer science. Along with my studies, I am also honing my skills in Web Development, DSA, 3D modelling and rendering and video editing. I'm also an avid gamer with a strong affinity for PC gaming.</h3>
+<h3 align="center">A passionate engineer immersed in the world of computer science. Along with my studies, I am also honing my skills in Web Development, DSA, 3D modelling , rendering and video editing. I'm also an avid gamer with a strong affinity for PC gaming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmeet482&label=Profile%20views&color=0e75b6&style=flat" alt="ishmeet482" /> </p>
 
