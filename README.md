@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React & Node JS**
 
-- 📫 How to reach me **ishmeet22695@gmail.com**
+- 📫 How to reach me **ishmeet22694@gmail.com**
 
 - ⚡ Fun fact **I think I have great sense of humour.**
 
