@@ -1,3 +1,6 @@
+<div id="header" align ="center">
+<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="250" />
+</div>
 <h1 align="center">Hi 👋, I'm Ishmeet</h1>
 <h3 align="center">A passionate engineer immersed in the world of computer science. Along with my studies, I am also honing my skills in Web Development, DSA, 3D modelling , rendering and video editing. I'm also an avid gamer with a strong affinity for PC gaming.</h3>
 
